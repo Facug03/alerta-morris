@@ -1,7 +1,7 @@
 
 # Alerta Morris
 
-![757shots_so](https://github.com/user-attachments/assets/a8d5f87d-d8d6-43be-bde9-182f3e51551b)
+![imagen](https://github.com/user-attachments/assets/b2c8d35e-77be-4de7-af6e-7aeafeab4493)
 
 En la universidad, con un título de una noticia, teníamos que escribir el contenido, pero quise llevarlo más allá y también creé la web.
 
