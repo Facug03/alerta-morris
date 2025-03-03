@@ -1,9 +1,13 @@
 
 # Alerta Morris
 
+Web:
 ![imagen](https://github.com/user-attachments/assets/b2c8d35e-77be-4de7-af6e-7aeafeab4493)
 
 En la universidad, con un título de una noticia, teníamos que escribir el contenido, pero quise llevarlo más allá y también creé la web.
+
+Noticia:
+![file-65774de0375ac](https://github.com/user-attachments/assets/4a08d381-b906-44b6-b62c-94a5dce75af4)
 
 ## Correr localmente
 
