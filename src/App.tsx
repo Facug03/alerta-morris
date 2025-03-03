@@ -105,7 +105,7 @@ function App() {
               <p>
                 Tras los sucesos del apagón en las Provincias Unidas del Oeste,{' '}
                 <strong>
-                  se desataron varios casos de incidentes, hurtos y mas
+                  se desataron varios casos de incidentes, hurtos y más
                   destacable
                 </strong>
                 , el terrible atraco ocurrido en el edificio de EnerLife.
@@ -113,11 +113,11 @@ function App() {
 
               <p>
                 Como los otros sucesos ocurridos de inseguridad en el barrio,{' '}
-                <strong>este también quedo impune</strong>.
+                <strong>este también quedó impune</strong>.
               </p>
 
               <p>
-                Aun se sigue investigando el caso,{' '}
+                Aún se sigue investigando el caso,{' '}
                 <strong>
                   las autoridades pertinentes siguen sin tomar cartas en el
                   asunto
